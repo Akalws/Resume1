@@ -1,0 +1,45 @@
+Daniel Akalws
+[125 E Second South Rexburg, ID 83440 | 208-970-8264 | danchase100@gmail.com]
+Education
+B.S., Computer Science 
+Brigham Young University Idaho [3.9 GPA/Spring 2024/Rexburg, ID]
+Skills
+•	Python, C++, C#, React Native, Tableau, JavaScript, Html, Css, Java
+•	Power Point, Microsoft Office
+•	Arduino Circuit
+•	Cyber Security
+
+Experience
+Projects
+Python Asteroid Game [July 2021/BYU Idaho]
+•	Designed an asteroid game in data structures using the Arcade Library.
+Arduino Sensor Circuit [July 2020/BYU Idaho]
+•	Designed a sensor circuit implemented with Arduino, which detects and displays the surrounding temperature and humidity every two seconds.
+C++ Sudoku Algorithm [January 2020/BYU Idaho]
+•	Designed and developed a sudoku solving algorithm in C++ which uses stochastic search to solve sudoku problems in under 1 second. 
+Microprocessor [March 2021/BYU Idaho]
+•	Designed and developed a microprocessor that does simple arithmetic with the help of ALU (arithmetic logic unit), and a Prom.
+Poke Man Game [January 2022/BYU Idaho]
+•	Designed and built a poke man game in C# with the use of classes and ray lib library.
+
+Work & Volunteer Experience
+New Net Express—Shipping Clerk [July 2019-November 2019/Ghana]
+•	Received incoming materials and picked orders based on supervisors’ instructions.
+•	Prepared all outgoing materials for shipping by completing paperwork with the use of Ship Station application software.
+•	Supervised the shipment of packages.
+•	Maintained a clean and orderly work area.
+•	Followed all company and national safety procedures and standards.
+Python Tutor, [January 2022-January 2023]
+•	Provided one-on-one or group lessons in Python programming to students of varying skill levels.
+•	Designed and delivered engaging and interactive lessons that facilitated learning and understanding.
+•	Assessed student progress and provided constructive feedback and support to help them reach their goals.
+•	Encouraged students to engage in independent learning and problem-solving activities to enhance their skills and confidence in Python programming.
+
+
+The Church of Jesus Christ of Latter-day Saints —Full-Time Volunteer Representative [June 2016-June 2018/Nigeria]
+•	Supervised and motivated 100-170 full time volunteers, coordinated training, and organized service projects and meetings.
+•	Invested 80+ hours per week teaching life improvements principles in Pidgin/Broken English.
+Awards & Acknowledgements
+•	Executive member of the IEEE Society (Financial Secretary BYUI Branch)
+•	Akalws/weather-update-app: a simple web app that tells you the weather of any location in the US (github.com)
+•	Akalws (Daniel Akalws) (github.com)
